@@ -1,3 +1,4 @@
+
 # Web Dev Notes
 
 Notes from working through The Odin Project curriculum.
@@ -7,3 +8,4 @@ Notes from working through The Odin Project curriculum.
 - [HTML & CSS](./html-css/notes.md)
 - [JavaScript](./javascript/notes.md)
 - [Flask](./flask/notes.md)
+
