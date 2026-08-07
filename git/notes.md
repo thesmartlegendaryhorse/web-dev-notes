@@ -10,7 +10,5 @@ while git runs on our devices  locally github is a remote storage facility on th
 ## Assignment 
   - explain the difference between git and github 
   
-
-
- 
- cb4efb7735ea93146c0b98d85022f87481da874a
+## Getting Started section of Pro Git
+so what is a version controll you gonna ask and why should we care , a version control is a system that records changes to a file or a set of files overtime so that you can recall specefic versions later.
