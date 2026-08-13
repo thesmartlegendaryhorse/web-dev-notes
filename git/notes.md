@@ -61,3 +61,9 @@ nice so it worked im lowk a genius cuz i figured it by myself anyway erm oh in f
 so the lines i use are 
 
 
+
+<img width="648" height="117" alt="commands_of_git_that_i_use_for_noting_my_work" src="https://github.com/user-attachments/assets/e40754c9-397e-4dc5-ba64-07186fbef1ac" />
+
+
+
+
