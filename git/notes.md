@@ -67,3 +67,5 @@ so the lines i use are
 
 
 
+- plus the git push and pull when i need to send what i edited on my pc to github or the opposite in order of course
+
