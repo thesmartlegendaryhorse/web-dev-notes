@@ -46,3 +46,7 @@ every clone is a really full backup of all the data which is super cool.
 
  many of these systems deal pretty well with having several remote repos they can work with, so you can collaborate with different groups of people in differet ways at the same time on the same project. this allows to set multiple types of workflows that aren't possible in centralized systems , such as hierarchical models.
    
+# Git basics 
+
+heheee now thats where serious stuff starts, so basically im gonne just try to put a screenshot of all commands needed plus like highlight the ones i use to publish this repo like add changes and everything just like its working for text it works even better for code which is the main goal of github lol anyway be back in a minute
+
