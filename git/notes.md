@@ -50,3 +50,9 @@ every clone is a really full backup of all the data which is super cool.
 
 heheee now thats where serious stuff starts, so basically im gonne just try to put a screenshot of all commands needed plus like highlight the ones i use to publish this repo like add changes and everything just like its working for text it works even better for code which is the main goal of github lol anyway be back in a minute
 
+
+
+
+<img width="701" height="668" alt="git_cheatsheet" src="https://github.com/user-attachments/assets/29f13baf-a861-435c-ad07-660128baa7eb" />
+
+
