@@ -56,3 +56,8 @@ heheee now thats where serious stuff starts, so basically im gonne just try to p
 <img width="701" height="668" alt="git_cheatsheet" src="https://github.com/user-attachments/assets/29f13baf-a861-435c-ad07-660128baa7eb" />
 
 
+
+nice so it worked im lowk a genius cuz i figured it by myself anyway erm oh in few minutes it will be 14th august which is the birthday of a friend so i have to not forget, anyway i got a lil off topic but anyway 
+so the lines i use are 
+
+
