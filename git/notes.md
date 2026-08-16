@@ -69,3 +69,27 @@ so the lines i use are
 
 - plus the git push and pull when i need to send what i edited on my pc to github or the opposite in order of course
 
+
+# Git's best practices
+
+
+its cool to learn git but now you gotta also take a look on some practices to become  a better collaborator with your future teammates right. 
+git is not only useful when collaborating but also when doing solo work because you will be relying on your own commits history more and more when revising old code so yeah 
+
+## Two helpful practices to consider are :
+
+- atomic commits 
+- leveraging thoes atomic commits to make your commit messages more useful for future collaboraions 
+
+# Atomic commits  
+
+ an atomic commit is a commit that includes changes related to only one feature or task of your program.
+so that if you make some changes and it causes problems in your program it would be easier to revert the specefic change that causes trouble, it also enables you to simply write better commit messages.
+
+# KNOWLEDGE CHECK
+
+- How do you create a new repo on GitHub? :
+just go into your accout and slect the create new reposiory button, few check after that and you are all done.
+
+- How do you copy a repository onto your local machine from GitHub? :
+
