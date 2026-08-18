@@ -89,7 +89,13 @@ so that if you make some changes and it causes problems in your program it would
 # KNOWLEDGE CHECK
 
 - How do you create a new repo on GitHub? :
+
 just go into your accout and slect the create new reposiory button, few check after that and you are all done.
 
 - How do you copy a repository onto your local machine from GitHub? :
+
+git clone git@github.com:USER-NAME/REPOSITORY-NAME.git
+
+- What is the default name of your remote connection? :
+
 
