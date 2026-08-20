@@ -98,4 +98,42 @@ git clone git@github.com:USER-NAME/REPOSITORY-NAME.git
 
 - What is the default name of your remote connection? :
 
+its origin 
+  
+- Explain what "origin" in "git push origin main" mean :
+
+origin like said before is the name of the remote connection and the convention for the remote repo, it could have been named anything else like "banana-bread"
+
+- Explain what "main" in "git push origin main" mean : 
+
+well this one is pretty easy its the main brach of the repo
+
+- Explain the 2 stage system that GitHub uses to save files :
+
+basically the first stage is like a gun that is getting reloaded so you make your changes with them waiting to bo commited and the 2nd stage is fireing the gun so it is commiting the changes and sending them over
+
+- How do you check the status of your current repository? :
+
+just type ' git status ' in the terminal blud 
+
+- How do you add files to the staging area in git? :
+
+just type ' git add "the files name" '
+
+- How do you commit the files in the staging area and add a descriptive message? :
+
+just type ' git commit -m "the message"
+
+- How do you push your changes to your repo on GitHub? :
+
+again, just type ' git push ' knowing you are in the main branch and the origin remote of course
+
+ How do you look at the history of your previous commits? :
+
+just type ' git log 'and you are good
+
+
+## The End of the Git topic 
+
+that was easier than i expected but it felt kind of short i thought id stay months stuck in here but it ended in 2 weeks kind of so yeah appreceate it and im happy that i finished the first chapter of that long journey of web developement stay tuned next topic is HTML foundations 
 
