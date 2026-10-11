@@ -48,3 +48,27 @@ a paragraph element looks like this :
 ## Creating an HTML file
 
 
+- it is easy to make a html file just add a .html at the end like or example index.html while it doesnt matter what name it got but when making a website for it t obe deployed we need to name the html file as index because web servers will look for an index.html when landing on our website otherwise we will face big problems.
+
+## The DOCTYPE
+
+
+ - every html page starts with a doctype declaration because its purpose is to tell the browser which version of HTML it has to use to render the document, the latest html version is html 5 and its doctype is <!DOCTYPE html>, the doctype for html4 for example was <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+
+## HTML element
+
+- after giving the doctype we have to provide an <html> element known as the root element of the document, meaning that every other element in the document will be a descendent of it, that is more important for later when we learn about manipulating html with javascript but for now just know that <html> should be in every html document
+
+## Head element
+
+- the <head> element is where we put information about our webpage and we should not put any element that displays content on the webpage.
+
+- now in that head element we use the <meta> element which is important because it ensures that the webpage will display special symbols ad characters from different languages correctly 
+- the <title> element is used to give the webpage a human friendly title displayed on the browser tab
+
+
+## Body element 
+
+
+- the <body> elemnt is where all the content will be displayed to users will go like text and images and lists and links etc.
