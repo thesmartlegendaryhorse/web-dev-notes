@@ -72,3 +72,21 @@ a paragraph element looks like this :
 
 
 - the <body> elemnt is where all the content will be displayed to users will go like text and images and lists and links etc.
+
+- now when opening a blank .html file in vscode we can just type ! in the first line and we press enter a "template" will appear like this :
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Document</title>
+</head>
+<body>
+</body>
+</html>
+
+
+- note taht the line <meta name="viewport" content="width=device-width, initial-scale=1.0"> has not been explained yet and will be introduced in a later topic.
+
+
