@@ -74,7 +74,7 @@ a paragraph element looks like this :
 - the <body> elemnt is where all the content will be displayed to users will go like text and images and lists and links etc.
 
 - now when opening a blank .html file in vscode we can just type ! in the first line and we press enter a "template" will appear like this :
-
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -85,8 +85,91 @@ a paragraph element looks like this :
 <body>
 </body>
 </html>
+```
+
+- note that the line <meta name="viewport" content="width=device-width, initial-scale=1.0"> has not been explained yet and will be introduced in a later topic.
+
+# Working with text
+
+  - Most text on the internet is text based, so we will work with html text elements quite alot  
 
 
-- note taht the line <meta name="viewport" content="width=device-width, initial-scale=1.0"> has not been explained yet and will be introduced in a later topic.
+
+## Paragraphs
+
+- if we write something inside the body  just plainly like this :
+
+```html
+<html>
+  <head>
+  </head>
+  <body>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+  incididunt ut labore et dolore magna aliqua.
+
+    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+  nisi ut aliquip ex ea commodo consequat.
+  </body>   
+ </html>
+
+- our resualt will be : 
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+ 
+- because when the browser finds new lines in your html it will compress them down into a single chunk of space, so if we want the text to be a paragraph we will have to use the ```<p></p>``` tag which looks like this :
+```html
+<html>
+  <head>
+  </head>
+  <body>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+  incididunt ut labore et dolore magna aliqua.</p>
+
+    <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+  nisi ut aliquip ex ea commodo consequat.</p>
+  </body>   
+ </html>```
+
+- will give us the desired resault : 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+
+## Headings
+
+- Headings are some kind of different HTML text element because they are displayed larger and bolder than other text to signal that they are headings.
+
+- and with that there are 6 levels of headings starting from <h1> to <h6> with h1 beaing largest and h6 tiniest, for example this code :
+
+```html
+<html>
+  <head>
+  </head>
+  <body>
+    <h1>This is a heading 1</h1>
+    <h2>This is a heading 2</h2>
+    <h3>This is a heading 3</h3>
+    <h4>This is a heading 4</h4>
+    <h5>This is a heading 5</h5>
+    <h6>This is a heading 6</h6>
+  </body>
+ </html>
+```
+- it will look like that :
+
+<html>
+  <head>
+  </head>
+  <body>
+    <h1>This is a heading 1</h1>
+    <h2>This is a heading 2</h2>
+    <h3>This is a heading 3</h3>
+    <h4>This is a heading 4</h4>
+    <h5>This is a heading 5</h5>
+    <h6>This is a heading 6</h6>
+  </body>
+ </html>
+
 
 
