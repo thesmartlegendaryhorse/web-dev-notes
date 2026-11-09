@@ -172,4 +172,59 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
  </html>
 
 
+###  The Strong element 
+
+the <strong> element akes the text bold as to mark it as important for example  
+```
+<html>
+  <head>
+  </head>
+  <body>
+    <strong>Lorem ipsum dolor</strong>
+   </body>
+ </html>
+``` 
+shows like this 
+<html>
+  <head>
+  </head>
+  <body>
+    <strong>Lorem ipsum dolor</strong>
+   </body>
+ </html>
+
+
+but you can also use it in other elements like this 
+```
+<html>
+  <head>
+  </head>
+  <body>
+    <p>Lorem ipsum <strong>dolor sit</strong> amet, consectetur adipiscing elit.</p>
+  </body>
+</html>
+
+```
+
+
+### Em element 
+the <em> element makes the text italic which places emphasis on the text ( ill show an example later but its very simple)
+
+
+## Nesting and indentetation
+
+- in the previous example we nested one element <strong> inside another <P> and when we do that we make a child parrent relationship between the the nest being the parent and the nested being the child 
+
+- indentation is the fact we put few more spaces in a child element inside a parent element so that we make the code easier to read for us and other developers. 
+
+- the parent child and sibling relationship between elements will become much more important later when we start styling our HTML with CSS and adding behaviour with JavaScript 
+
+
+### HTML comments
+
+- the comments are not visible to the browser, they allow us to comment in our code so that other devs or our future selves can understand what is going on and they go like this 
+
+
+``` <!--- i am an html comment --->```
+
 
