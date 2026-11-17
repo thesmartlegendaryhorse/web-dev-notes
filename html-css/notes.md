@@ -227,4 +227,6 @@ the <em> element makes the text italic which places emphasis on the text ( ill s
 
 ``` <!--- i am an html comment --->```
 
+- it might look a little annoying to write all that so luckily in vs code we got a shortcut Ctrl + /  to open an html comment ( note that this is for english layout keyboard and it is recommended to look for your shortcut if your keyboard is on another language )
+
 
